@@ -4,9 +4,9 @@
 """
 Student Name:    Jenille Cheney
 Program Title:  Hipster's Local Receipt Calculator
-Description:    Creating a retro program to calculate a receipt for customers including travel, item cost, and taxes. With inputs
+Description:    Assignment 1 Program 1/3
 """
-
+# realized that you wanted it to mirror the exmple so i came back and re did my strings to match exactly
 def main():
     # YOUR CODE STARTS HERE, each line must be indented (one tab)
 #Welcome to program 
